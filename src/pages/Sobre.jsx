@@ -5,7 +5,7 @@ function Sobre() {
   return (
     <div>
       <h1>Sobre mim:</h1>
-      <ul style = color: "#ffff">
+      <ul>
         <li>Nome: Pedro Henrique Reis Millani</li>
         <li>Curso: Desenvolvimento de Sistema</li>
         <li>Cidade: São José</li>
