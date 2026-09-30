@@ -94,6 +94,72 @@ function Projetos() {
   Ver Projeto
 </a>
       </div>
+      <div className="projeto-card">
+        <h2>Projeto 5 — Um site de tarefas</h2>
+        <p>Um site para organizar tarefas</p>
+        <p><strong>Tecnologias:</strong> HTML, CSS e Javascript</p>
+        <a 
+  href="https://organiza-plus-liard.vercel.app" 
+  target="_blank" 
+  rel="noopener noreferrer"
+  style={{
+    display: "inline-block",
+    backgroundColor: "#3b82f6",
+    color: "white",
+    padding: "0.75rem 1.5rem",
+    borderRadius: "8px",
+    textDecoration: "none",
+    fontWeight: 500,
+    marginTop: "1rem"
+  }}
+>
+  Ver Projeto
+</a>
+      </div>
+      <div className="projeto-card">
+        <h2>Projeto 6 — Um jogo de RPG</h2>
+        <p>Um site feito para rodar um jogo feito de Javascript o guardião da floresta </p>
+        <p><strong>Tecnologias:</strong> HTML, CSS e Javascript</p>
+        <a 
+  href="https://mini-rpg-tan.vercel.app" 
+  target="_blank" 
+  rel="noopener noreferrer"
+  style={{
+    display: "inline-block",
+    backgroundColor: "#3b82f6",
+    color: "white",
+    padding: "0.75rem 1.5rem",
+    borderRadius: "8px",
+    textDecoration: "none",
+    fontWeight: 500,
+    marginTop: "1rem"
+  }}
+>
+  Ver Projeto
+</a>
+      </div>
+      <div className="projeto-card">
+        <h2>Projeto 7 — Um site de feira de trocas digital</h2>
+        <p>Um site para organizar uma feira digital</p>
+        <p><strong>Tecnologias:</strong> HTML, CSS e Javascript</p>
+        <a 
+  href="https://feira-de-trocas.vercel.app" 
+  target="_blank" 
+  rel="noopener noreferrer"
+  style={{
+    display: "inline-block",
+    backgroundColor: "#3b82f6",
+    color: "white",
+    padding: "0.75rem 1.5rem",
+    borderRadius: "8px",
+    textDecoration: "none",
+    fontWeight: 500,
+    marginTop: "1rem"
+  }}
+>
+  Ver Projeto
+</a>
+      </div>
     </div>
   );
 }
