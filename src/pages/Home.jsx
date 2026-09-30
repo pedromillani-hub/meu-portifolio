@@ -49,6 +49,7 @@ const styles = {
     color: "#94a3b8",
     marginBottom: "1rem",
     lineHeight: 1.6,
+    color: "#ffff",
   },
   welcome: {
     fontSize: "1.1rem",
