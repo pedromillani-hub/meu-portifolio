@@ -49,27 +49,7 @@ function Projetos() {
       </div>
 
       <div className="projeto-card">
-        <h2>Projeto 2 — Trino para minha mãe</h2>
-        <p>lista de exercício da minha pra minha</p>
-        <p><strong>Tecnologias:</strong> JavaScript, html e css</p>
-        <a 
-  href="https://treino-jaqueline-rust.vercel.app" 
-  target="_blank" 
-  rel="noopener noreferrer"
-  style={{
-    display: "inline-block",
-    backgroundColor: "#3b82f6",
-    color: "white",
-    padding: "0.75rem 1.5rem",
-    borderRadius: "8px",
-    textDecoration: "none",
-    fontWeight: 500,
-    marginTop: "1rem"
-  }}
->
-  Ver Projeto
-</a>
-        <h2>Projeto 2 — Trino para minha mãe</h2>
+        <h2>Projeto 2 — Treino para minha mãe</h2>
         <p>lista de exercício da minha pra minha</p>
         <p><strong>Tecnologias:</strong> JavaScript, html e css</p>
         <a 
