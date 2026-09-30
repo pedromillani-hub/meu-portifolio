@@ -72,6 +72,28 @@ function Projetos() {
   Ver Projeto
 </a>
       </div>
+      <div className="projeto-card">
+        <h2>Projeto 4 — um site sobre filmes</h2>
+        <p>Um site para organizar filmes que já assistiu ou vai assistir</p>
+        <p><strong>Tecnologias:</strong> HTML, CSS e Javascript</p>
+        <a 
+  href="https://filmes-blush-alpha.vercel.app" 
+  target="_blank" 
+  rel="noopener noreferrer"
+  style={{
+    display: "inline-block",
+    backgroundColor: "#3b82f6",
+    color: "white",
+    padding: "0.75rem 1.5rem",
+    borderRadius: "8px",
+    textDecoration: "none",
+    fontWeight: 500,
+    marginTop: "1rem"
+  }}
+>
+  Ver Projeto
+</a>
+      </div>
     </div>
   );
 }
