@@ -9,18 +9,12 @@ function App() {
   return (
     <BrowserRouter>
       {/* Menu de navegação */}
-      <nav style={{ 
-        padding: "1rem 2rem", 
-        background: "#0f172a",
-        display: "flex",
-        gap: "1.5rem",
-        justifyContent: "center"
-      }}>
-        <Link to="/" style={{ color: "white", textDecoration: "none" }}>Home</Link>
-        <Link to="/sobre" style={{ color: "white", textDecoration: "none" }}>Sobre</Link>
-        <Link to="/projetos" style={{ color: "white", textDecoration: "none" }}>Projetos</Link>
-        <Link to="/contato" style={{ color: "white", textDecoration: "none" }}>Contato</Link>
-      </nav>
+      <nav>
+  <Link to="/">Home</Link>
+  <Link to="/sobre">Sobre</Link>
+  <Link to="/projetos">Projetos</Link>
+  <Link to="/contato">Contato</Link>
+</nav>
 
       <main>
         <Routes>
