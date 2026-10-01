@@ -160,6 +160,28 @@ function Projetos() {
   Ver Projeto
 </a>
       </div>
+      <div className="projeto-card">
+        <h2>Projeto 8 — Um site de um orgão educativo</h2>
+        <p>Um site para uma ferramenta de ensino com informações</p>
+        <p><strong>Tecnologias:</strong> HTML, CSS, Javascript</p>
+        <a 
+  href="https://transforme-ideias-em-sistemas.vercel.app" 
+  target="_blank" 
+  rel="noopener noreferrer"
+  style={{
+    display: "inline-block",
+    backgroundColor: "#3b82f6",
+    color: "white",
+    padding: "0.75rem 1.5rem",
+    borderRadius: "8px",
+    textDecoration: "none",
+    fontWeight: 500,
+    marginTop: "1rem"
+  }}
+>
+  Ver Projeto
+</a>
+      </div>
     </div>
   );
 }
