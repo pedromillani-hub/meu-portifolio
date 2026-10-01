@@ -163,7 +163,7 @@ function Projetos() {
       <div className="projeto-card">
         <h2>Projeto 8 — Um site de um orgão educativo</h2>
         <p>Um site para uma ferramenta de ensino com informações</p>
-        <p><strong>Tecnologias:</strong> HTML, CSS, Javascript</p>
+        <p><strong>Tecnologias:</strong> HTML, CSS, Javascript e react</p>
         <a 
   href="https://transforme-ideias-em-sistemas.vercel.app" 
   target="_blank" 
